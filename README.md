@@ -8,10 +8,10 @@ This is a program that I've written in Python and is a simple supermarket system
 - Conditional Statements
 - Loops
 
-## What I Learned
-- How to create and use Python classes
-- How inheritance works in object-oriented programming
-- How to store cart items using lists
-- How to calculate totals and discounts
-- How to use loops and conditionals to create an interactive program
-- How to organize code into reusable methods
+## Features
+- Displays available supermarket items
+- Allows users to add multiple items to a shopping cart
+- Calculates item totals based on quantity
+- Applies discounts to selected items
+- Prints a receipt with subtotal and grand total
+- Uses classes and inheritance to organize inventory items
